@@ -193,9 +193,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
-
+# Object Detected
 <img width="900" height="1600" alt="WhatsApp Image 2026-08-14 at 8 42 49 AM (1)" src="https://github.com/user-attachments/assets/cc400345-af09-46e8-9645-18ca061744bb" />
-
+# Object not Detected
 <img width="900" height="1600" alt="WhatsApp Image 2026-08-14 at 8 42 50 AM" src="https://github.com/user-attachments/assets/0d9572ab-4572-47a0-9df3-2e02204c0172" />
 
 ## Result
